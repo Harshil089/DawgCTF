@@ -12,4 +12,4 @@ As i uploaded the message on the morse coder decoder, i got this message👇🏻
 <img width="1668" alt="Screenshot 2025-04-26 at 9 37 44 AM" src="https://github.com/user-attachments/assets/fcef7b0d-6b16-481d-a8f1-1238b972f17d" />
 
 ### Step-5:
-Wrapping the given message in the DawgCTF{} format, i got the final flag which is DawgCTF{LISTENCAREFULLY}.
+Wrapping the given message in the DawgCTF{} format, i got the final flag which is DawgCTF{L I S T E N C A R E F U L L Y}.
