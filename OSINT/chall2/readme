@@ -1,1 +1,18 @@
+## GEOSINT _ chall 2 -Easy
+
+### Solving the Challenge
+Analize the Place: by analyzing the surroundings: low-rise houses, yellowish walls, 
+and vehicles with the driver’s seat on the left. The language on signs was English, 
+and there are businesses like Goldcar rental and a pet supply delivery from a brand 
+called “Prince.” These details with the architecture/color of the walls pointed to 
+Malta.
+
+To narrow it down further, I searched for pet shops in Malta and looked for names 
+ending in “-fastic.” That led us straight to the location. Gotcha!
+
+
+
+
+
+Flag: DawgCTF{HaveUTriedCatFood?ihave!}
 
