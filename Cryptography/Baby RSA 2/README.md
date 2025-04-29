@@ -53,4 +53,4 @@ Running the exploit script gives:
 [+] Flag: DawgCTF{kn0w1ng_d_1s_kn0w1ng_f4ct0rs}
 
 ### Step-7:
-Hence the final flag is DawgCTF{kn0w1ng_d_1s_kn0w1ng_f4ct0rs}
+Hence the final flag is `DawgCTF{kn0w1ng_d_1s_kn0w1ng_f4ct0rs}`
