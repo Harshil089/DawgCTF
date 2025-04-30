@@ -10,6 +10,8 @@ many naval bases in that area so to narrow it down Then I searched the red
 building in front of the submarine and then found the area and after some time got 
 that location.
 
+<img width="1167" alt="chall 5" src="https://github.com/user-attachments/assets/e1784f65-7589-4279-b381-ecf87088cee7" />
+
 Google Maps
 
 Flag: DawgCTF{howmanyofyoujustknewitwasbaltimore?}
