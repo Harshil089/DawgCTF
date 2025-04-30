@@ -9,5 +9,8 @@ After a bit more searching, we can confirm that it’s the Morgan Boulevard Metr
 Station. If you search for Morgan Boulevard or Morgan Metro, in Maryland on 
 Google Maps, you’ll find it easily.
 
+<img width="690" alt="chall 12" src="https://github.com/user-attachments/assets/60c2a6ce-cef6-4857-8fc4-f278109fd2ce" />
+
+
 Flag: DawgCTF{t.r.a.i.n.s}
 
