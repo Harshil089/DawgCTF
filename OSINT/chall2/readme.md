@@ -11,6 +11,7 @@ To narrow it down further, I searched for pet shops in Malta and looked for name
 ending in “-fastic.” That led us straight to the location. Gotcha!
 
 
+<img width="683" alt="chall 2" src="https://github.com/user-attachments/assets/d465e8ff-9457-4d78-9dc0-0272e09de37e" />
 
 
 
