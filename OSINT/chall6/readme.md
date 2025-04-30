@@ -19,6 +19,7 @@ WEST BASELINE that intercepts with another Road and is 400m from LB4 Lockout
 and 12 km from The Blowholes and then after street viewing it found the exact 
 location .
 
+<img width="1169" alt="chall 6" src="https://github.com/user-attachments/assets/c1ee09af-ee41-43a3-9b89-8729f11b6a4d" />
 
 
 Flag : DawgCTF{wow_feels_christmas!}
