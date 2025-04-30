@@ -18,9 +18,10 @@ Hipólito Bouchard) is an Argentine shelter located on the south coast of Port
 Circumcision on Petermann Island, off the west coast of the Antarctic Peninsula. 
 You can search for Petermann Island using Google Street View, and since the area 
 is relatively small, it’s easy to find the location. Also, you can find expedition maps 
-from Oceanwide Expeditions that show the specific side of the island where they 
+from Oceanwide Expeditions that show the specific side of the island where they do the tours.
 
-do the tours.
+
+<img width="1064" alt="chall 11" src="https://github.com/user-attachments/assets/3b635be2-f2a1-4aa3-8731-08a5a37630b3" />
 
 Google Maps
 
